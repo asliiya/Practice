@@ -27,9 +27,5 @@ public class NavigationTests {
         StringUtility.verifyEquals(secondUrl, fourthUrl);
 
         driver.quit();
-
-
-
-
     }
 }
